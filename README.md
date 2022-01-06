@@ -14,8 +14,7 @@ Assumptions and limitations:
 
 
 User guide:
-Build by running Javac com.Assignment3/.*java
-		 Java com.Assignment3.Portfolio
+Build by running Javac com.Assignment3/.*java then Java com.Assignment3.Portfolio
 -A file name that has old portfolio data can be added to the command line to edit in the program
 -If no file a new file "portfolio.txt" will be created
 -The start menu will appear prompting the user to use the one of the 6 commands
