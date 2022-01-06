@@ -15,15 +15,15 @@ Assumptions and limitations:
 
 User guide:
 Build by running Javac com.Assignment3/.*java then Java com.Assignment3.Portfolio
--A file name that has old portfolio data can be added to the command line to edit in the program
--If no file a new file "portfolio.txt" will be created
--The start menu will appear prompting the user to use the one of the 6 commands
--To begin some functionality will be resticted if the portfolio is empty
--Start by clicking buy in drop down menu to purchase stock if no command line arguments
--To input information type desired information and press enter
--After entering desired information press buy (if no errors purchase will be displayed to
+- A file name that has old portfolio data can be added to the command line to edit in the program
+- If no file a new file "portfolio.txt" will be created
+- The start menu will appear prompting the user to use the one of the 6 commands
+- To begin some functionality will be resticted if the portfolio is empty
+- Start by clicking buy in drop down menu to purchase stock if no command line arguments
+- To input information type desired information and press enter
+- After entering desired information press buy (if no errors purchase will be displayed to
 messages)
--Now select desired input from the command menu to buy, sell, update the prices, get the gain,
+- Now select desired input from the command menu to buy, sell, update the prices, get the gain,
 search for an item, or exit
--To exit select quit in the command menu or close the window and to save to file select quit 
+- To exit select quit in the command menu or close the window and to save to file select quit 
 in the command menu
