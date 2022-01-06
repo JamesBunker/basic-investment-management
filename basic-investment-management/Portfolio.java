@@ -1,12 +1,11 @@
-package Assignment3;
+package basicinvestmentmanagement;
 
 /** 
  * @author Name: James Bunker
- * Student ID: 1130246
  * Course: CIS 2430 
  * Semester: F21
  * 
- * Title: Assignment3 extends Assignment2
+ * Title: basic-investment-management
  * Files: Investment.java, MutualFund.java, Stock.java, Portfolio.java
  * @version Final
 **/
