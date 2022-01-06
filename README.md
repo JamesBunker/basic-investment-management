@@ -1,5 +1,5 @@
 # basic-investment-management
-This program utilizes a GUI to manage, search and save basic investment portfolios.
+This program utilizes a GUI to manage, search and save basic investment portfolios all done using Java.
 
 General problem:
 Creating a portfolio manager to manage a users investments (stock or mutualfunds), as well
